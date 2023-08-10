@@ -24,7 +24,7 @@
 
 - :zap: [PwnLab.Me](https://pwnlab.me) PwnLab.Me Türkiyedeki Siber Güvenlik ekosistemini canlandırmak, ekosisteme yeni insanlar kazandırmak ve bu alanda edinilen bilgi ve tecrübeyi Siber Güvenlik meraklılarıyla paylaşmayı hedefleyen gönüllü bir Siber Güvenlik Topluluğudur.
 
-Desteklerinize ve önerilerinize daima açığız. Herhangi bir konuda öneriniz olursa bizimle iletişime geçebilirsiniz.
+  Desteklerinize ve önerilerinize daima açığız. Herhangi bir konuda öneriniz olursa bizimle iletişime geçebilirsiniz.
 
 
 
